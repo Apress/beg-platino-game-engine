@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-OER9BGL</Machine>
+    <WindowsUser>abhis</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1f5c2b75-60b3-42a8-9c32-1bbd3c567418</PackageIdentityName>
+    <PackageIdentityPublisher>CN=abhis</PackageIdentityPublisher>
+    <IntermediateOutputPath>F:\CLI\ProcessingJS2\ProcessingJS2\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>2880BF51BBAEEF4ADEBF14C1770EA67C36852E7D7B592EDACD370FDC3ED2907F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1f5c2b75-60b3-42a8-9c32-1bbd3c567418_1.0.0.0_neutral__1n00nrfqrgyrm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1f5c2b75-60b3-42a8-9c32-1bbd3c567418_1n00nrfqrgyrm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1f5c2b75-60b3-42a8-9c32-1bbd3c567418</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=abhis</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\CLI\ProcessingJS2\ProcessingJS2\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-09-19T21:41:46.524</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\CLI\ProcessingJS2\ProcessingJS2\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2016-09-19T21:41:45.441</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\ProcessingJS2\ProcessingJS2\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-09-20T11:50:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\ProcessingJS2\ProcessingJS2\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T11:50:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\ProcessingJS2\ProcessingJS2\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T11:50:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\ProcessingJS2\ProcessingJS2\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T11:50:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\ProcessingJS2\ProcessingJS2\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T11:50:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\ProcessingJS2\ProcessingJS2\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T11:50:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\ProcessingJS2\ProcessingJS2\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T11:50:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\ProcessingJS2\ProcessingJS2\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2016-09-19T21:36:13.378</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\ProcessingJS2\ProcessingJS2\js\processing.min.js">
+      <PackagePath>js\processing.min.js</PackagePath>
+      <Modified>2016-09-07T22:35:49.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\ProcessingJS2\ProcessingJS2\lib\winjs-4.0.1\js\base.js">
+      <PackagePath>lib\winjs-4.0.1\js\base.js</PackagePath>
+      <Modified>2016-02-28T15:46:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\ProcessingJS2\ProcessingJS2\lib\winjs-4.0.1\js\ui.js">
+      <PackagePath>lib\winjs-4.0.1\js\ui.js</PackagePath>
+      <Modified>2016-02-28T15:46:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\ProcessingJS2\ProcessingJS2\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2016-09-19T21:36:13.366</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\ProcessingJS2\ProcessingJS2\lib\winjs-4.0.1\css\ui-light.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-light.css</PackagePath>
+      <Modified>2016-02-28T15:46:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\ProcessingJS2\ProcessingJS2\lib\winjs-4.0.1\css\ui-dark.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-dark.css</PackagePath>
+      <Modified>2016-02-28T15:46:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\ProcessingJS2\ProcessingJS2\lib\winjs-4.0.1\fonts\Symbols.ttf">
+      <PackagePath>lib\winjs-4.0.1\fonts\Symbols.ttf</PackagePath>
+      <Modified>2016-04-12T06:40:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\ProcessingJS2\ProcessingJS2\pde\draw.pde">
+      <PackagePath>pde\draw.pde</PackagePath>
+      <Modified>2016-09-19T21:41:20.994</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\ProcessingJS2\ProcessingJS2\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-09-19T21:41:46.203</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

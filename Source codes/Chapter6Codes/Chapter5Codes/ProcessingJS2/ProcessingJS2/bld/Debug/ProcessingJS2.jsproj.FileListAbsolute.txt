@@ -1,0 +1,16 @@
+F:\CLI\ProcessingJS2\ProcessingJS2\bin\Debug\AppxManifest.xml
+F:\CLI\ProcessingJS2\ProcessingJS2\bin\Debug\ProcessingJS2.build.appxrecipe
+F:\CLI\ProcessingJS2\ProcessingJS2\bld\Debug\ResourceHandlingTask.state
+F:\CLI\ProcessingJS2\ProcessingJS2\bld\Debug\priconfig.xml
+F:\CLI\ProcessingJS2\ProcessingJS2\bld\Debug\priconfig.xml.intermediate
+F:\CLI\ProcessingJS2\ProcessingJS2\bld\Debug\layout.resfiles
+F:\CLI\ProcessingJS2\ProcessingJS2\bld\Debug\layout.resfiles.intermediate
+F:\CLI\ProcessingJS2\ProcessingJS2\bld\Debug\resources.resfiles
+F:\CLI\ProcessingJS2\ProcessingJS2\bld\Debug\resources.resfiles.intermediate
+F:\CLI\ProcessingJS2\ProcessingJS2\bld\Debug\pri.resfiles
+F:\CLI\ProcessingJS2\ProcessingJS2\bld\Debug\pri.resfiles.intermediate
+F:\CLI\ProcessingJS2\ProcessingJS2\bld\Debug\qualifiers.txt
+F:\CLI\ProcessingJS2\ProcessingJS2\bld\Debug\qualifiers.txt.intermediate
+F:\CLI\ProcessingJS2\ProcessingJS2\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\CLI\ProcessingJS2\ProcessingJS2\bld\Debug\ProjectArchitectures.txt
+F:\CLI\ProcessingJS2\ProcessingJS2\bin\Debug\resources.pri

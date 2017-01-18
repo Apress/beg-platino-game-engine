@@ -1,0 +1,1 @@
+MainPackage=F:\CLI\ProcessingJS2\ProcessingJS2\bin\Debug\ProcessingJS2_1.0.0.0_AnyCPU_Debug.appx

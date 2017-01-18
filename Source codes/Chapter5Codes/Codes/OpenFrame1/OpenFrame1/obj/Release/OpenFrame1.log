@@ -1,0 +1,6 @@
+﻿  ofApp.cpp
+     Creating library bin\OpenFrame1.lib and object bin\OpenFrame1.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  OpenFrame1.vcxproj -> F:\CLI\OpenFrame1\OpenFrame1\bin\OpenFrame1.exe
+  
+  	                   9	F:\OpenFramework\of_v0.9.3_vs_release\export\vs\Win32\

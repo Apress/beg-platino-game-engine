@@ -1,0 +1,16 @@
+F:\CLI\App1\App1\bin\Debug\ReverseMap\resources.pri
+F:\CLI\App1\App1\bin\Debug\AppxManifest.xml
+F:\CLI\App1\App1\bin\Debug\App1.build.appxrecipe
+F:\CLI\App1\App1\bld\Debug\ResourceHandlingTask.state
+F:\CLI\App1\App1\bld\Debug\priconfig.xml
+F:\CLI\App1\App1\bld\Debug\priconfig.xml.intermediate
+F:\CLI\App1\App1\bld\Debug\layout.resfiles
+F:\CLI\App1\App1\bld\Debug\layout.resfiles.intermediate
+F:\CLI\App1\App1\bld\Debug\resources.resfiles
+F:\CLI\App1\App1\bld\Debug\resources.resfiles.intermediate
+F:\CLI\App1\App1\bld\Debug\pri.resfiles
+F:\CLI\App1\App1\bld\Debug\pri.resfiles.intermediate
+F:\CLI\App1\App1\bld\Debug\qualifiers.txt
+F:\CLI\App1\App1\bld\Debug\qualifiers.txt.intermediate
+F:\CLI\App1\App1\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\CLI\App1\App1\bld\Debug\ProjectArchitectures.txt

@@ -1,0 +1,16 @@
+F:\CLI\procsJS1\procsJS1\bin\Debug\ReverseMap\resources.pri
+F:\CLI\procsJS1\procsJS1\bin\Debug\AppxManifest.xml
+F:\CLI\procsJS1\procsJS1\bin\Debug\procsJS1.build.appxrecipe
+F:\CLI\procsJS1\procsJS1\bld\Debug\ResourceHandlingTask.state
+F:\CLI\procsJS1\procsJS1\bld\Debug\priconfig.xml
+F:\CLI\procsJS1\procsJS1\bld\Debug\priconfig.xml.intermediate
+F:\CLI\procsJS1\procsJS1\bld\Debug\layout.resfiles
+F:\CLI\procsJS1\procsJS1\bld\Debug\layout.resfiles.intermediate
+F:\CLI\procsJS1\procsJS1\bld\Debug\resources.resfiles
+F:\CLI\procsJS1\procsJS1\bld\Debug\resources.resfiles.intermediate
+F:\CLI\procsJS1\procsJS1\bld\Debug\pri.resfiles
+F:\CLI\procsJS1\procsJS1\bld\Debug\pri.resfiles.intermediate
+F:\CLI\procsJS1\procsJS1\bld\Debug\qualifiers.txt
+F:\CLI\procsJS1\procsJS1\bld\Debug\qualifiers.txt.intermediate
+F:\CLI\procsJS1\procsJS1\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\CLI\procsJS1\procsJS1\bld\Debug\ProjectArchitectures.txt

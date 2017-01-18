@@ -1,0 +1,2 @@
+bld\Debug\split.pri
+bld\Debug\split.map.txt

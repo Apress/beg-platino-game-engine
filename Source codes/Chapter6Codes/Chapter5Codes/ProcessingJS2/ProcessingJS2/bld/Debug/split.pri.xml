@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="1f5c2b75-60b3-42a8-9c32-1bbd3c567418" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>24</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="index.html" uri="ms-resource://1f5c2b75-60b3-42a8-9c32-1bbd3c567418/Files/index.html">
+				<Candidate type="Path">
+					<Value>index.html</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="css">
+				<NamedResource name="default.css" uri="ms-resource://1f5c2b75-60b3-42a8-9c32-1bbd3c567418/Files/css/default.css">
+					<Candidate type="Path">
+						<Value>css\default.css</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://1f5c2b75-60b3-42a8-9c32-1bbd3c567418/Files/images/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://1f5c2b75-60b3-42a8-9c32-1bbd3c567418/Files/images/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://1f5c2b75-60b3-42a8-9c32-1bbd3c567418/Files/images/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://1f5c2b75-60b3-42a8-9c32-1bbd3c567418/Files/images/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>images\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://1f5c2b75-60b3-42a8-9c32-1bbd3c567418/Files/images/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>images\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://1f5c2b75-60b3-42a8-9c32-1bbd3c567418/Files/images/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="js">
+				<NamedResource name="main.js" uri="ms-resource://1f5c2b75-60b3-42a8-9c32-1bbd3c567418/Files/js/main.js">
+					<Candidate type="Path">
+						<Value>js\main.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="processing.min.js" uri="ms-resource://1f5c2b75-60b3-42a8-9c32-1bbd3c567418/Files/js/processing.min.js">
+					<Candidate type="Path">
+						<Value>js\processing.min.js</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="lib">
+				<ResourceMapSubtree name="winjs-4.0.1">
+					<ResourceMapSubtree name="css">
+						<NamedResource name="ui-dark.css" uri="ms-resource://1f5c2b75-60b3-42a8-9c32-1bbd3c567418/Files/lib/winjs-4.0.1/css/ui-dark.css">
+							<Candidate type="Path">
+								<Value>lib\winjs-4.0.1\css\ui-dark.css</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ui-light.css" uri="ms-resource://1f5c2b75-60b3-42a8-9c32-1bbd3c567418/Files/lib/winjs-4.0.1/css/ui-light.css">
+							<Candidate type="Path">
+								<Value>lib\winjs-4.0.1\css\ui-light.css</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="fonts">
+						<NamedResource name="Symbols.ttf" uri="ms-resource://1f5c2b75-60b3-42a8-9c32-1bbd3c567418/Files/lib/winjs-4.0.1/fonts/Symbols.ttf">
+							<Candidate type="Path">
+								<Value>lib\winjs-4.0.1\fonts\Symbols.ttf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="js">
+						<NamedResource name="base.js" uri="ms-resource://1f5c2b75-60b3-42a8-9c32-1bbd3c567418/Files/lib/winjs-4.0.1/js/base.js">
+							<Candidate type="Path">
+								<Value>lib\winjs-4.0.1\js\base.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ui.js" uri="ms-resource://1f5c2b75-60b3-42a8-9c32-1bbd3c567418/Files/lib/winjs-4.0.1/js/ui.js">
+							<Candidate type="Path">
+								<Value>lib\winjs-4.0.1\js\ui.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="pde">
+				<NamedResource name="draw.pde" uri="ms-resource://1f5c2b75-60b3-42a8-9c32-1bbd3c567418/Files/pde/draw.pde">
+					<Candidate type="Path">
+						<Value>pde\draw.pde</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

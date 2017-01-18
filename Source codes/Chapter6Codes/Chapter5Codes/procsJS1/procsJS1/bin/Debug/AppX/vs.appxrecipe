@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-OER9BGL</Machine>
+    <WindowsUser>abhis</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>49f30ee6-9809-4bc4-a2b8-1d70e6d543bc</PackageIdentityName>
+    <PackageIdentityPublisher>CN=abhis</PackageIdentityPublisher>
+    <IntermediateOutputPath>F:\CLI\procsJS1\procsJS1\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>5D4CA2FBF0C5FB3620598A45AEE57D2D593E64742247EDDBA53D372B6DB8B0F1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>49f30ee6-9809-4bc4-a2b8-1d70e6d543bc_1.0.0.0_neutral__1n00nrfqrgyrm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>49f30ee6-9809-4bc4-a2b8-1d70e6d543bc_1n00nrfqrgyrm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>49f30ee6-9809-4bc4-a2b8-1d70e6d543bc</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=abhis</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\CLI\procsJS1\procsJS1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-09-19T20:48:45.494</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\CLI\procsJS1\procsJS1\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2016-09-19T20:48:40.936</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\procsJS1\procsJS1\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-09-20T11:50:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\procsJS1\procsJS1\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T11:50:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\procsJS1\procsJS1\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T11:50:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\procsJS1\procsJS1\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T11:50:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\procsJS1\procsJS1\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T11:50:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\procsJS1\procsJS1\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T11:50:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\procsJS1\procsJS1\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T11:50:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\procsJS1\procsJS1\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2016-09-19T19:59:14.731</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\procsJS1\procsJS1\js\processing.min.js">
+      <PackagePath>js\processing.min.js</PackagePath>
+      <Modified>2016-09-07T22:35:49.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\procsJS1\procsJS1\lib\winjs-4.0.1\js\base.js">
+      <PackagePath>lib\winjs-4.0.1\js\base.js</PackagePath>
+      <Modified>2016-02-28T15:46:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\procsJS1\procsJS1\lib\winjs-4.0.1\js\ui.js">
+      <PackagePath>lib\winjs-4.0.1\js\ui.js</PackagePath>
+      <Modified>2016-02-28T15:46:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\procsJS1\procsJS1\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2016-09-19T19:59:14.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\procsJS1\procsJS1\lib\winjs-4.0.1\css\ui-light.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-light.css</PackagePath>
+      <Modified>2016-02-28T15:46:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\procsJS1\procsJS1\lib\winjs-4.0.1\css\ui-dark.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-dark.css</PackagePath>
+      <Modified>2016-02-28T15:46:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\procsJS1\procsJS1\lib\winjs-4.0.1\fonts\Symbols.ttf">
+      <PackagePath>lib\winjs-4.0.1\fonts\Symbols.ttf</PackagePath>
+      <Modified>2016-04-12T06:40:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\procsJS1\procsJS1\pde\move.pde">
+      <PackagePath>pde\move.pde</PackagePath>
+      <Modified>2016-09-19T20:35:09.925</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CLI\procsJS1\procsJS1\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-09-19T20:48:44.465</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,16 @@
+F:\CLI\P5example1\P5example1\bin\Debug\ReverseMap\resources.pri
+F:\CLI\P5example1\P5example1\bin\Debug\AppxManifest.xml
+F:\CLI\P5example1\P5example1\bin\Debug\P5example1.build.appxrecipe
+F:\CLI\P5example1\P5example1\bld\Debug\ResourceHandlingTask.state
+F:\CLI\P5example1\P5example1\bld\Debug\priconfig.xml
+F:\CLI\P5example1\P5example1\bld\Debug\priconfig.xml.intermediate
+F:\CLI\P5example1\P5example1\bld\Debug\layout.resfiles
+F:\CLI\P5example1\P5example1\bld\Debug\layout.resfiles.intermediate
+F:\CLI\P5example1\P5example1\bld\Debug\resources.resfiles
+F:\CLI\P5example1\P5example1\bld\Debug\resources.resfiles.intermediate
+F:\CLI\P5example1\P5example1\bld\Debug\pri.resfiles
+F:\CLI\P5example1\P5example1\bld\Debug\pri.resfiles.intermediate
+F:\CLI\P5example1\P5example1\bld\Debug\qualifiers.txt
+F:\CLI\P5example1\P5example1\bld\Debug\qualifiers.txt.intermediate
+F:\CLI\P5example1\P5example1\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\CLI\P5example1\P5example1\bld\Debug\ProjectArchitectures.txt
