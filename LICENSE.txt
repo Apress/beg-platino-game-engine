@@ -1,6 +1,6 @@
 Freeware License, some rights reserved
 
-Copyright (c) 2016 Nandy, Abhishek
+Copyright (c) 2016 Abhishek Nandy and Debashree Chanda
 
 Permission is hereby granted, free of charge, to anyone obtaining a copy 
 of this software and associated documentation files (the "Software"), 

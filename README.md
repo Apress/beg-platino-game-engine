@@ -1,6 +1,6 @@
 #Apress Source Code
 
-This repository accompanies [*Beginning Platino Game Engine*](http://www.apress.com/9781484224830) by Nandy, Abhishek (Apress, 2016).
+This repository accompanies [*Beginning Platino Game Engine*](http://www.apress.com/9781484224830) by Abhishek Nandy and Debashree Chanda (Apress, 2016).
 
 ![Cover image](9781484224830.jpg)
 
